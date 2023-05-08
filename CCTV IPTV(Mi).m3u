@@ -38,3 +38,5 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225678/index.m3u8
 #EXTINF:-1 group-title="江西移动IPV6",NewTV精品大剧 4M1080
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",天元围棋
+https://live.goodiptv.club/api/cqyx.php?id=weiqi
